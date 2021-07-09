@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DOLIBARR"
+    id="59441885-9bcc-4f3f-b021-a90f9fb40621">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0ff860ab-e6ad-4b70-b0ba-6f60c859c2d3"
+      textPosition="1">
+    <bounds
+        x="204"
+        y="96"
+        width="313"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_7e3e586d-0369-4673-b710-b89e15852be2.xml#7e3e586d-0369-4673-b710-b89e15852be2"/>
+  </children>
+</archimate:ArchimateDiagramModel>
